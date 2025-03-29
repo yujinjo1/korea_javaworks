@@ -1,0 +1,20 @@
+package Operator;
+
+public class OperatorEx2 {
+
+	public static void main(String[] args) {
+		// 비교연산자
+		System.out.println("****비교연산****");
+		
+		//"==":같다, "!="같지 않다
+		int n1=10, n2=20;
+		
+		System.out.println(n1>=n2);
+		System.out.println(n1<=n2);
+		System.out.println(n1==n2);
+		System.out.println(n1!=n2);
+		
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package Operator;
+
+public class OperatorEx2 {
+
+	public static void main(String[] args) {
+		// 비교연산자
+		System.out.println("****비교연산****");
+		
+		int n1=10, n2=20;
+		
+
+	}
+
+}
