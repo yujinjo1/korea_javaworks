@@ -48,11 +48,11 @@ public class Arrayint {
 		for(int i=0; i<number.length; i++) {
 			//계산
 			total=total+number[i];//total +=number[i];
-			System.out.println("합계:"+total);
-			System.out.println("평균:"+((double)total/number.length));
-			System.out.println();
-		}
-
+			
+		}System.out.println("합계:"+total);
+		System.out.println("평균:"+((double)total/number.length));
+		System.out.println();
+//for문 안에 {print넣으면}->출력도 반복된다ㅠㅠ 주의하기!!
 
 	
 	}
