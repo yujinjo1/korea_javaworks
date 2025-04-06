@@ -10,7 +10,7 @@ public class ArrayCopy {
 		
 		//arr1출력
 		for(int i=0; i<arr1.length; i++) {
-			System.out.println(arr1 +" ");
+			System.out.println(arr1[i] +" ");
 		}
 		System.out.println();
 		
