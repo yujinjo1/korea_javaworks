@@ -18,8 +18,15 @@ class Human extends Animal{
 public class AnimalTest {
 
 	public static void main(String[] args) {
-		//Animal human= new Human();
-		//human.move();
+//		Human human = new Human();
+//		human.move();
+//		human.readBook();
+		
+//		Animal human = new Human();
+//		human.move();
+//		
+		
+
 		//readBook()에 접근 안됨- 다운 캐스팅(강제 타입 변환)필요함
 		Animal animal = new Human();
 		
