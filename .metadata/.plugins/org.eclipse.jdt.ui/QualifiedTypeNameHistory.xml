@@ -4,11 +4,16 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.gc.parallel.PSYoungGen"/>
-    <fullyQualifiedTypeName name="jdk.internal.org.jline.terminal.TerminalBuilder.SystemOutput"/>
     <fullyQualifiedTypeName name="memberservice.MemberService"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="reference.score.Student"/>
     <fullyQualifiedTypeName name="java.util.jar.Attributes.Name"/>
     <fullyQualifiedTypeName name="javax.security.auth.Subject"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="interfaces.remote_control.Searchable"/>
+    <fullyQualifiedTypeName name="interfaces.remote_control.RemoteControl"/>
+    <fullyQualifiedTypeName name="abstract_class.game_level.Player"/>
+    <fullyQualifiedTypeName name="abstract_class.game_level.PlayerLevel"/>
+    <fullyQualifiedTypeName name="jdk.internal.org.jline.terminal.TerminalBuilder.SystemOutput"/>
+    <fullyQualifiedTypeName name="interfaces.scheduler.LeastJob"/>
 </qualifiedTypeNameHistroy>
