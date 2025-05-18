@@ -52,7 +52,8 @@ public class BankMain {
 	private static BankAccount findAccount(String ano) {
 		BankAccount account = null;  //객체 초기화
 		for(int i = 0; i < accounts.length; i++) {
-			if(accounts[i] != null) {
+			if(accounts[i] != null) {//배열에 값이 있는 경우만
+				//(null처리 하기 시르면 arrayList사용!)
 				//이미 배열에 저장된 계좌 가져옴
 				String dbAno = accounts[i].getAno();
 				if(dbAno.equals(ano)) { //외부에서 입력한 계좌와 이미 저장된 계좌가 일치하면

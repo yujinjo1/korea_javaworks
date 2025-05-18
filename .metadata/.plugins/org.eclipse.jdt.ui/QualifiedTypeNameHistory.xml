@@ -17,4 +17,5 @@
     <fullyQualifiedTypeName name="jdk.internal.org.jline.terminal.TerminalBuilder.SystemOutput"/>
     <fullyQualifiedTypeName name="interfaces.scheduler.LeastJob"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="interfaces.innerInterface.Button.OnClickListener"/>
 </qualifiedTypeNameHistroy>
