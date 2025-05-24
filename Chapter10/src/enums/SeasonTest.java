@@ -25,6 +25,12 @@ public class SeasonTest {
 				
 		}
 		System.out.println("현재 계절은"+season+"입니다.");
+		
+		if(season==Season.여름) { //동등 비교 연산자 사용. 
+			System.out.println(" 무더위와 장마가 옵니다. ");
+		}else {
+			System.out.println("무더위와 장마가 별로 없습니다. ");
+		}
 
 	}
 
