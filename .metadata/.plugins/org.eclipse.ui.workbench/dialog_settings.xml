@@ -16,4 +16,17 @@
 			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|-127|3|2|1|50|맑은 고딕"/>
 		</section>
 	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.jdt.internal.ui.fatjarpackager.JarPackageWizard"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
+		<section name="ImportExportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="643"/>
+			<item key="DIALOG_Y_ORIGIN" value="167"/>
+			<item key="DIALOG_WIDTH" value="651"/>
+			<item key="DIALOG_HEIGHT" value="551"/>
+			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|-127|3|2|1|50|맑은 고딕"/>
+		</section>
+	</section>
 </section>

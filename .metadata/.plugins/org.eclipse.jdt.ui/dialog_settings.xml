@@ -23,8 +23,8 @@
 	<section name="JavaElementSearchActions">
 	</section>
 	<section name="NewPackageCreationWizard.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="250"/>
-		<item key="DIALOG_Y_ORIGIN" value="95"/>
+		<item key="DIALOG_X_ORIGIN" value="284"/>
+		<item key="DIALOG_Y_ORIGIN" value="94"/>
 		<item key="DIALOG_WIDTH" value="548"/>
 		<item key="DIALOG_HEIGHT" value="500"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|-127|3|2|1|50|맑은 고딕"/>
@@ -95,5 +95,29 @@
 		<item key="updateTextualMatches" value="false"/>
 		<item key="updateQualifiedNames" value="false"/>
 		<item key="patterns" value="*"/>
+	</section>
+	<section name="FatJarPackageWizard">
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_SAVE" value="false"/>
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION" value="C:\javaworks"/>
+		<item key="FatJarPackageWizardPage.LIBRARY_HANDLING" value="1"/>
+		<item key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME" value="TypingGame - TypingGame"/>
+		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="C:\javaworks\typing3.jar"/>
+		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="C:\javaworks\typing3.jar"/>
+			<item value="C:\javaworks\typing2.jar"/>
+			<item value="C:\javaworks\typing.jar"/>
+			<item value="C:\Users\Administrator\Desktop\jar배포\typing.jar"/>
+		</list>
+		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
+			<item value="C:\javaworks.xml"/>
+			<item value=".xml"/>
+		</list>
+		<section name="FatJarPackageWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="643"/>
+			<item key="DIALOG_Y_ORIGIN" value="167"/>
+			<item key="DIALOG_WIDTH" value="651"/>
+			<item key="DIALOG_HEIGHT" value="550"/>
+			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|-127|3|2|1|50|맑은 고딕"/>
+		</section>
 	</section>
 </section>
