@@ -24,7 +24,7 @@ public class FileCopyTest2 {
 				BufferedOutputStream bos= new BufferedOutputStream(fos);
 
 				){
-			start =System.currentTimeMillis();
+			start =System.currentTimeMillis(); 
 			//읽고 쓰기
 			int data;
 			while((data = bis.read())!=-1) {

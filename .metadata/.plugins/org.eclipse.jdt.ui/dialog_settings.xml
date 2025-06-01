@@ -101,8 +101,9 @@
 		<item key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION" value="C:\javaworks"/>
 		<item key="FatJarPackageWizardPage.LIBRARY_HANDLING" value="1"/>
 		<item key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME" value="TypingGame - TypingGame"/>
-		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="C:\javaworks\typing3.jar"/>
+		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="C:\java_jar\typing3.jar"/>
 		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="C:\java_jar\typing3.jar"/>
 			<item value="C:\javaworks\typing3.jar"/>
 			<item value="C:\javaworks\typing2.jar"/>
 			<item value="C:\javaworks\typing.jar"/>
