@@ -30,7 +30,7 @@ public class ConnectionTest {
 		}finally {
 			if(conn !=null) {
 				try {
-					conn.close(); // 켜져있을때 연ㅁ결을 끊는다. conn.close먼저 쳐주고 마우스 올려서 try,catch자동생성 
+					conn.close(); // 켜져있을때 연결을 끊는다. conn.close먼저 쳐주고 마우스 올려서 try,catch자동생성 
 				} catch (SQLException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
