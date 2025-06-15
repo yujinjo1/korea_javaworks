@@ -18,7 +18,7 @@ public class inetAddressTest {
 //			System.out.println(server);
 			InetAddress[] servers =InetAddress.getAllByName("www.naver.com");
 			for(InetAddress remote : servers)
-				System.out.println(remote);
+				System.out.println("네이버 컴퓨터 ip주소 : "+ remote);
 		} catch (UnknownHostException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
